@@ -85,3 +85,5 @@ proguard/
 ### Android Patch ###
 gen-external-apklibs
 
+# KAnnotator
+annotations/
