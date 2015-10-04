@@ -1,7 +1,8 @@
-package cable.slide
+package cable.slide.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import cable.slide.R
 import org.jetbrains.anko.toast
 
 class GameActivity : AppCompatActivity() {

@@ -1,7 +1,8 @@
-package cable.slide
+package cable.slide.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import cable.slide.R
 import kotlinx.android.synthetic.activity_main_menu.newGame
 import org.jetbrains.anko.intentFor
 import org.jetbrains.anko.onClick
